@@ -1,1 +1,1 @@
-# iot-dashboard-poc
+# Mitwelten.org IoT Dashboard Proof of Concept
