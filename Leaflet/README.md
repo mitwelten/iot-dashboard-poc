@@ -16,5 +16,6 @@ Leaflet.js with SwissTopo tiles and KML data.
 
 ## License
 https://fhnw.mit-license.org/
-Based on https://github.com/rsalzer/leafletswisstopo licensed under MIT license.
-Based on https://github.com/windycom/leaflet-kml licensed under MIT license.
+* Based on https://github.com/rsalzer/leafletswisstopo licensed under MIT license.
+* Based on https://github.com/windycom/leaflet-kml licensed under MIT license.
+* Free geo data by Federal Office of Topography [swisstopo](https://www.swisstopo.admin.ch/) under [OGD](https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html) terms.
