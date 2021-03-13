@@ -10,6 +10,7 @@
 * To serve the KML file, type<pre>
     ```$ python CorsServer.py```</pre>
 * To see the KML content, refresh the Web page.
+    <img width="540" src="https://live.staticflickr.com/65535/51032013767_00f2140fed_z.jpg"/>
 
 ## License
 https://fhnw.mit-license.org/
