@@ -2,4 +2,4 @@
 Work in progress. Questions? Contact [thomas.amberg@fhnw.ch](mailto:thomas.amberg@fhnw.ch)
 
 ## Leaflet PoC
-* [Leaflet PoC](Leaflet/README.md)
+* [Leaflet.js with SwissTopo tiles and KML data](Leaflet/README.md)
