@@ -1,4 +1,5 @@
-# Leaflet.js with SwissTopo tiles and KML data
+# Leaflet PoC
+Leaflet.js with SwissTopo tiles and KML data
 
 ## Tool
 * To create new KML content, use the geo.admin drawing tool, e.g.
