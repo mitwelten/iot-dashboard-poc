@@ -1,5 +1,4 @@
 # Leaflet.js with SwissTopo tiles and KML data
-Based on https://github.com/rsalzer/leafletswisstopo licensed under MIT license.
 
 ## Tool
 * To create new KML content, use the geo.admin drawing tool, e.g.
@@ -12,3 +11,7 @@ Based on https://github.com/rsalzer/leafletswisstopo licensed under MIT license.
     ```$ python CorsServer.py```</pre>
 * To see the KML content, refresh the Web page.
 
+## License
+https://fhnw.mit-license.org/
+Based on https://github.com/rsalzer/leafletswisstopo licensed under MIT license.
+Based on https://github.com/windycom/leaflet-kml licensed under MIT license.
