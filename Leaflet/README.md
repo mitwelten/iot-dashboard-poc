@@ -8,7 +8,7 @@ Leaflet.js with SwissTopo tiles and KML data.
 ## Setup
 * To open the Web page in your browser on MacOS, type<pre>
     ```$ open index.html```</pre>
-* To serve the KML file, type<pre>
+* To serve the KML file (and everything in the same directory), type<pre>
     ```$ python CorsServer.py```</pre>
 * To see the KML content, refresh the Web page.
 
