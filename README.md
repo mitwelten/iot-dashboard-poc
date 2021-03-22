@@ -1,5 +1,5 @@
 # Mitwelten.org IoT Dashboard Proof of Concept
-Work in progress. Questions? Contact [thomas.amberg@fhnw.ch](mailto:thomas.amberg@fhnw.ch)
+Work in progress. Questions? Contact [mitwelten.technik@fhnw.ch](mailto:mitwelten.technik@fhnw.ch)
 
 ## Leaflet PoC
 * [Leaflet.js with SwissTopo tiles and KML data](Leaflet/README.md)
